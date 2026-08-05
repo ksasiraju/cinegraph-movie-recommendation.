@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 CineGraph - Movie Recommendation Graph Database System
 
 > An interactive, visual **Graph Database & Recommendation Web Application** built to demonstrate property graph modeling, multi-hop Cypher traversals, and personalized recommendation algorithms.
@@ -191,3 +192,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - [x] Graph data model Mermaid diagram
 - [x] Environment variable protection (`.env.example`)
 - [x] Clean, user-friendly UI with loading and error states
+=======
+# cinegraph-movie-recommendation.
+>>>>>>> b9a10f836d197bf3d4ec35a893dc1f31c9a15e66
